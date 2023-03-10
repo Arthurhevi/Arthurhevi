@@ -1,4 +1,3 @@
-### Olá! Eu sou o Arthur Henrique e sou estudante da área de tecnologia 😃
 
 - 💻 Em busca do primeiro estágio
 - 📚 Cursando Análise e desenvolvimento de sistemas
