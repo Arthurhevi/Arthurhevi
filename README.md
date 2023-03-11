@@ -1,3 +1,4 @@
+###Oi! Eu sou o Arthur Henrique 🙂
 
 - 💻 Em busca do primeiro estágio
 - 📚 Cursando Análise e desenvolvimento de sistemas
